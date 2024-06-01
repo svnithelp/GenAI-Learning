@@ -78,8 +78,8 @@
 
 # 7 GitHub Repo to Master GenerativeAI
 
-|Title |Link|
-|--|--|
+| Title         |                 Link                  |
+|---------------|---------------------------------------|
 |1. Generative AI for Beginners - Microsoft | https://github.com/microsoft/generative-ai-for-beginners |
 |2. GenerativeAI by Google Cloud Platform | https://github.com/GoogleCloudPlatform/generative-ai |
 |3.Awesome Generative AI |https://github.com/steven2358/awesome-generative-ai |
